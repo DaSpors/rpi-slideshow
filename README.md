@@ -24,6 +24,5 @@ Image Update
 * Create a FAT32 fomrmatted USB drive and name in 'IMAGES' (case matters!)
 * Copy images into the USB drive root folder.
 * Plug the USB drive into RPI running slideshow
-* Now slideshow will be teminated and dektop is shown, ignore everything you see and just wait
-* Wait longer as all files are copied to the RPI SD card
-* Wait until RPI reboots, when it does remove the USB drive (while it boots!)
+* Now slideshow will be teminated and dektop is shown
+* Follow the instructions shown (in some cases the message boxes will be hidden by some dialogs)
